@@ -1,4 +1,4 @@
-# 北京高考一分一段表 (2023-2025)
+# 北京高考一分一段表 (2023-2026)
 
 北京市高考考生分数分布数据，来源于[北京教育考试院](https://www.bjeea.cn)。
 
@@ -9,6 +9,7 @@
 | 2023 | 北京教育考试院 | https://www.bjeea.cn/html/gkgz/fujian/2023/0625/83922.html |
 | 2024 | 北京教育考试院 | https://www.bjeea.cn/html/gkgz/fujian/2024/0625/85432.html |
 | 2025 | 北京教育考试院 | https://www.bjeea.cn/uploads/soft/250625/172-2506250Q456.pdf |
+| 2026 | 北京教育考试院 | https://www.bjeea.cn/uploads/soft/260625/2026年北京市高考考生分数分布.pdf |
 
 ## 数据说明
 
@@ -27,11 +28,12 @@
 - `data/beijing_gaokao_score_segments_2023.csv` / `.json`
 - `data/beijing_gaokao_score_segments_2024.csv` / `.json`
 - `data/beijing_gaokao_score_segments_2025.csv` / `.json`
+- `data/beijing_gaokao_score_segments_2026.csv` / `.json`
 
 ### 合并数据
 
-- `data/combined.csv` — 三年数据合并的 CSV
-- `data/combined.json` — 三年数据合并的 JSON
+- `data/combined.csv` — 四年数据合并的 CSV
+- `data/combined.json` — 四年数据合并的 JSON
 
 ## 数据规模
 
@@ -40,6 +42,7 @@
 | 2023 | 327 | 696分以上 | 100→109 |
 | 2024 | 331 | 700以上 | 100→109 |
 | 2025 | 347 | 698分以上 | 100→109 |
+| 2026 | 341 | 692分以上 | 100→109 |
 
 ## 使用示例
 
